@@ -22,7 +22,6 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
     font-family: var(--font-family-title);
-    color: var(--color-primary);
 }
 
 a   {
@@ -32,6 +31,7 @@ a   {
 
 .visually-hidden{
     color: var(--text-color);
+    display: none;
 }
 
 .card-category  {

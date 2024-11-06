@@ -110,23 +110,24 @@ a:active{
     margin-right: auto;
 }
 
-.section{
-    padding: var(--section-padding)
+.section {
+    padding: var(--section-padding);
 }
-.section-header{
+
+.section-header {
     text-align: var(--section-header-align);
     padding: var(--section-header-padding);
-
 }
 
-.section-body{
+.section-body {
     padding: var(--section-body-padding);
 }
-.section-footer{
+
+.section-footer {
     padding: var(--section-footer-padding);
     text-align: var(--section-footer-align);
 }
 
-.footer{
-    padding: var(--section-footer-padding);
+.footer {
+    padding: var(--footer-padding);
 }

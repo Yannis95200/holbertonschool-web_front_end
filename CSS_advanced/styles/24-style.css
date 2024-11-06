@@ -222,8 +222,8 @@ ul.row {
     fill: var(--text-color)
 }
 
-.card-title{
-    margin:0;
+.card-services .card-title{
+    margin: 0;
 }
 
 .card-services a{
